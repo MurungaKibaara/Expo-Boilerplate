@@ -16,7 +16,7 @@ class Home extends Component {
     return(
       <View style={styles.container}>
         <Text>
-          This is the homepage!
+          This is the index page!
         </Text>
       </View>
     );
